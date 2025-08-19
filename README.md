@@ -12,8 +12,11 @@ The workflow automates the ETL process (Extract, Transform, Load), applies data 
 The project was designed around 4 key business use cases:
 
 1️⃣ Category Performance – Compare revenue across product categories (Beverages, Bakery, etc.).
+
 2️⃣ Peak Sales Days – Identify the highest revenue-generating dates and seasonal patterns.
+
 3️⃣ Location-Wise Sales – Evaluate which store locations contributed most to total sales.
+
 4️⃣ Top-Selling Products – Determine which products drive the highest revenue.
 
 🛠 Workflow Steps
@@ -55,7 +58,6 @@ Alteryx Designer → Workflow automation & analysis
 
 CSV Reports → Exported outputs
 
-(Optional) Visualization-ready for Tableau / Power BI
 
 💡 Business Value
 
