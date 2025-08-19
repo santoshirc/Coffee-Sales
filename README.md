@@ -22,23 +22,33 @@ The project was designed around 4 key business use cases:
 🛠 Workflow Steps
 
 Input Data
+
 Imported the dataset coffee_shop_sales.csv containing sales transactions.
 
 Data Preparation
+
 Cleaned and formatted data (data types, missing values, consistency checks).
 
 New Field Creation
+
 Added a calculated field:
+
 Total Sales = Units Sold * Unit Price
 
 Branching the Analysis
+
 By Product → Identify top-selling products.
+
 By Location → Compare city-level sales.
+
 By Date → Detect peak sales days.
+
 By Category → Analyze category-level performance.
 
 Aggregation & Ranking
+
 Summarized totals for each branch.
+
 Sorted results in descending order to highlight top contributors.
 
 📊 Key Insights
